@@ -20,3 +20,6 @@ Position: Sticky https://codepen.io/mpadalko/pen/LYNqpGG
 Модальне вікно ****https://codepen.io/mpadalko/pen/eYreJEL
 
 Всім гарного дня:blue_heart::yellow_heart:
+
+
+https://textbook.edu.goit.global/html-css-a7u5xv/v1/uk/docs/lesson-14/intro/
