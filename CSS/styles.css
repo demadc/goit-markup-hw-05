@@ -403,7 +403,7 @@ address {
 }
 .section-portfolio-link {
 	display: block;
-	transition: box-shdow var(--timing-function);
+	transition: box-shadow var(--timing-function);
 }
 .section-portfolio-link:hover,
 .section-portfolio-link:focus {
